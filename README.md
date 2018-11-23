@@ -20,7 +20,7 @@ This repository contains the code for a house map configurable component. React 
 -   Axios
 -   Webpack
 -   Gets data from [house API](http://demo4452328.mockable.io/properties), and [template API](http://demo4452328.mockable.io/templates)
--   Hadn't used Redux because there was no need to store application state. However it will be usefull with the growth of application. (Examples of using Redux can be found in my github repo) 
+-   Hadn't used Redux because there was no need to store application state. However, it will be useful with the growth of application. (Examples of using Redux can be found in my github repo) 
 
 ## Getting Started
 
